@@ -49,6 +49,8 @@
     ]
   },
   "dependencies": {
+    "build": "^0.1.4",
+    "run": "^1.4.0",
     "ts-loader": "^9.2.6",
     "vite": "^2.6.10",
     "webpack": "^5.58.2",
